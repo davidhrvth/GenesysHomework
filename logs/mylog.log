@@ -1,0 +1,88 @@
+17:46:52.799 [main] INFO  org.genesys.TestRunner - Setting up tests...
+17:47:21.152 [main] WARN  org.genesys.TestRunner - Setting up tests...
+17:47:32.003 [main] ERROR org.genesys.TestRunner - Setting up tests...
+17:51:36.961 [main] INFO  org.genesys.TestRunner - Setting up tests...
+17:51:45.951 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+17:51:46.415 [main] INFO  org.genesys.stepDefinitions.Case1Step - Cart size is valid: 2
+17:51:56.464 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+17:52:09.021 [main] INFO  org.genesys.stepDefinitions.Case5Step - Leanne Graham | Sincere@april.biz
+17:52:09.021 [main] INFO  org.genesys.stepDefinitions.Case5Step - Ervin Howell | Shanna@melissa.tv
+17:52:09.022 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementine Bauch | Nathan@yesenia.net
+17:52:09.022 [main] INFO  org.genesys.stepDefinitions.Case5Step - Patricia Lebsack | Julianne.OConner@kory.org
+17:52:09.022 [main] INFO  org.genesys.stepDefinitions.Case5Step - Chelsey Dietrich | Lucio_Hettinger@annie.ca
+17:52:09.023 [main] INFO  org.genesys.stepDefinitions.Case5Step - Mrs. Dennis Schulist | Karley_Dach@jasper.info
+17:52:09.023 [main] INFO  org.genesys.stepDefinitions.Case5Step - Kurtis Weissnat | Telly.Hoeger@billy.biz
+17:52:09.023 [main] INFO  org.genesys.stepDefinitions.Case5Step - Nicholas Runolfsdottir V | Sherwood@rosamond.me
+17:52:09.023 [main] INFO  org.genesys.stepDefinitions.Case5Step - Glenna Reichert | Chaim_McDermott@dana.io
+17:52:09.023 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementina DuBuque | Rey.Padberg@karina.biz
+17:52:09.025 [main] INFO  org.genesys.TestRunner - Tearing down tests...
+17:52:40.999 [main] INFO  org.genesys.TestRunner - Setting up tests...
+17:52:49.790 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+17:52:50.254 [main] INFO  org.genesys.stepDefinitions.Case1Step - Cart size is valid: 2
+17:53:00.323 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+17:53:33.306 [main] INFO  org.genesys.stepDefinitions.Case5Step - Leanne Graham | Sincere@april.biz
+17:53:33.306 [main] INFO  org.genesys.stepDefinitions.Case5Step - Ervin Howell | Shanna@melissa.tv
+17:53:33.306 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementine Bauch | Nathan@yesenia.net
+17:53:33.307 [main] INFO  org.genesys.stepDefinitions.Case5Step - Patricia Lebsack | Julianne.OConner@kory.org
+17:53:33.307 [main] INFO  org.genesys.stepDefinitions.Case5Step - Chelsey Dietrich | Lucio_Hettinger@annie.ca
+17:53:33.307 [main] INFO  org.genesys.stepDefinitions.Case5Step - Mrs. Dennis Schulist | Karley_Dach@jasper.info
+17:53:33.307 [main] INFO  org.genesys.stepDefinitions.Case5Step - Kurtis Weissnat | Telly.Hoeger@billy.biz
+17:53:33.307 [main] INFO  org.genesys.stepDefinitions.Case5Step - Nicholas Runolfsdottir V | Sherwood@rosamond.me
+17:53:33.307 [main] INFO  org.genesys.stepDefinitions.Case5Step - Glenna Reichert | Chaim_McDermott@dana.io
+17:53:33.307 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementina DuBuque | Rey.Padberg@karina.biz
+17:53:33.309 [main] INFO  org.genesys.TestRunner - Tearing down tests...
+17:53:42.575 [main] INFO  org.genesys.TestRunner - Setting up tests...
+17:53:51.499 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+17:53:51.965 [main] INFO  org.genesys.stepDefinitions.Case1Step - Cart size is valid: 2
+17:54:01.998 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+17:54:34.693 [main] INFO  org.genesys.stepDefinitions.Case5Step - Leanne Graham | Sincere@april.biz
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Ervin Howell | Shanna@melissa.tv
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementine Bauch | Nathan@yesenia.net
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Patricia Lebsack | Julianne.OConner@kory.org
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Chelsey Dietrich | Lucio_Hettinger@annie.ca
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Mrs. Dennis Schulist | Karley_Dach@jasper.info
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Kurtis Weissnat | Telly.Hoeger@billy.biz
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Nicholas Runolfsdottir V | Sherwood@rosamond.me
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Glenna Reichert | Chaim_McDermott@dana.io
+17:54:34.694 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementina DuBuque | Rey.Padberg@karina.biz
+17:54:34.696 [main] INFO  org.genesys.TestRunner - Tearing down tests...
+18:00:54.189 [main] INFO  org.genesys.TestRunner - Setting up tests...
+18:01:04.004 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+18:01:04.459 [main] INFO  org.genesys.stepDefinitions.Case1Step - Cart size is valid: 2
+18:01:10.914 [main] INFO  org.genesys.stepDefinitions.Case1Step - Case 1 – Automate Purchase Process IS SUCCESSFUL!
+18:01:14.501 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+18:01:14.537 [main] INFO  org.genesys.stepDefinitions.Case2Step - Case 2 – Verify error messages for mandatory fields IS SUCCESSFUL!
+18:01:22.583 [main] INFO  org.genesys.stepDefinitions.Case3Step - Case 3 - Rich Text Editor IS SUCCESSFUL!
+18:01:37.364 [main] INFO  org.genesys.stepDefinitions.Case4Step - Case 4 - iFrame and tab handling IS SUCCESSFUL!
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Leanne Graham | Sincere@april.biz
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Ervin Howell | Shanna@melissa.tv
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementine Bauch | Nathan@yesenia.net
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Patricia Lebsack | Julianne.OConner@kory.org
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Chelsey Dietrich | Lucio_Hettinger@annie.ca
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Mrs. Dennis Schulist | Karley_Dach@jasper.info
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Kurtis Weissnat | Telly.Hoeger@billy.biz
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Nicholas Runolfsdottir V | Sherwood@rosamond.me
+18:01:37.757 [main] INFO  org.genesys.stepDefinitions.Case5Step - Glenna Reichert | Chaim_McDermott@dana.io
+18:01:37.758 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementina DuBuque | Rey.Padberg@karina.biz
+18:01:37.758 [main] INFO  org.genesys.stepDefinitions.Case5Step - Case 5 – REST API testing IS SUCCESSFUL!
+18:01:37.760 [main] INFO  org.genesys.TestRunner - Tearing down tests...
+18:02:18.017 [main] INFO  org.genesys.TestRunner - Setting up tests...
+18:02:26.763 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+18:02:27.227 [main] INFO  org.genesys.stepDefinitions.Case1Step - Cart size is valid: 2
+18:02:33.665 [main] INFO  org.genesys.stepDefinitions.Case1Step - Case 1 – Automate Purchase Process IS SUCCESSFUL!
+18:02:37.290 [main] INFO  org.genesys.stepDefinitions.Case1Step - User has logged in successfully!
+18:02:37.329 [main] INFO  org.genesys.stepDefinitions.Case2Step - Case 2 – Verify error messages for mandatory fields IS SUCCESSFUL!
+18:02:46.323 [main] INFO  org.genesys.stepDefinitions.Case3Step - Case 3 - Rich Text Editor IS SUCCESSFUL!
+18:03:00.738 [main] INFO  org.genesys.stepDefinitions.Case4Step - Case 4 - iFrame and tab handling IS SUCCESSFUL!
+18:03:01.086 [main] INFO  org.genesys.stepDefinitions.Case5Step - Leanne Graham | Sincere@april.biz
+18:03:01.086 [main] INFO  org.genesys.stepDefinitions.Case5Step - Ervin Howell | Shanna@melissa.tv
+18:03:01.086 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementine Bauch | Nathan@yesenia.net
+18:03:01.086 [main] INFO  org.genesys.stepDefinitions.Case5Step - Patricia Lebsack | Julianne.OConner@kory.org
+18:03:01.086 [main] INFO  org.genesys.stepDefinitions.Case5Step - Chelsey Dietrich | Lucio_Hettinger@annie.ca
+18:03:01.086 [main] INFO  org.genesys.stepDefinitions.Case5Step - Mrs. Dennis Schulist | Karley_Dach@jasper.info
+18:03:01.086 [main] INFO  org.genesys.stepDefinitions.Case5Step - Kurtis Weissnat | Telly.Hoeger@billy.biz
+18:03:01.086 [main] INFO  org.genesys.stepDefinitions.Case5Step - Nicholas Runolfsdottir V | Sherwood@rosamond.me
+18:03:01.087 [main] INFO  org.genesys.stepDefinitions.Case5Step - Glenna Reichert | Chaim_McDermott@dana.io
+18:03:01.087 [main] INFO  org.genesys.stepDefinitions.Case5Step - Clementina DuBuque | Rey.Padberg@karina.biz
+18:03:01.087 [main] INFO  org.genesys.stepDefinitions.Case5Step - Case 5 – REST API testing IS SUCCESSFUL!
+18:03:01.089 [main] INFO  org.genesys.TestRunner - Tearing down tests...

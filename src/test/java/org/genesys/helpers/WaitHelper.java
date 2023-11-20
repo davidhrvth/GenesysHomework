@@ -17,4 +17,12 @@ public class WaitHelper {
     public static void waitForElementToBeVisible(WebElement element) {
         wait.until(ExpectedConditions.visibilityOf(element));
     }
+
+    public static void waitForNSeconds(int n) {
+        try {
+            Thread.sleep(n * 1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
 }
